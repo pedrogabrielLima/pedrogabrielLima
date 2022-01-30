@@ -25,7 +25,6 @@
   <img align="center" alt="Pedro-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Pedro-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Pedro-Kali" height="30" width="40" src="https://img.icons8.com/color/48/000000/kali-linux.png">
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://instagram.frec17-1.fna.fbcdn.net/v/t51.2885-15/e35/p320x320/28766800_204562733637001_2323487284621475840_n.jpg?_nc_ht=instagram.frec17-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=rnEoYqaIF0MAX-nmGFI&edm=ALQROFkBAAAA&ccb=7-4&ig_cache_key=MTc0MDk0MjcxNDgyNzMzMzMxMA%3D%3D.2-ccb7-4&oh=00_AT8FU359f2xeS4UfG5DQi127aG0LYdGAztBP0gmecar5NQ&oe=61FD80E5&_nc_sid=30a2ef?width=676&height=676">
 </div>
  
 ## Linkedin:

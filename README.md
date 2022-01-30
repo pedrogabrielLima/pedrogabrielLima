@@ -1,4 +1,5 @@
-## Hello, welcome to my profile, most of my repositories are private as a security measure, if you would like more information, send me a message.
+## Hello, I'm Pedro
+#### welcome to my profile, most of my repositories are private as a security measure, if you would like more information, send me a message.
 <div align="center">
   <a href="https://github.com/pedrogabrielLima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrogabrielLima&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide=stars"/>

@@ -27,7 +27,7 @@
   <img align="center" alt="Pedro-Kali" height="30" width="40" src="https://img.icons8.com/color/48/000000/kali-linux.png">
 </div>
  
-## Linkedin:
+##
  
 <div> 
   <a href="https://www.linkedin.com/in/pedrog-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
